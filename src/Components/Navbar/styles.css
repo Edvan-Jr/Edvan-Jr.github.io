@@ -28,3 +28,9 @@
     gap: 10px;
   }
 }
+
+@media (max-width: 295px) {
+  .nav-header {
+    gap: 6px;
+  }
+}

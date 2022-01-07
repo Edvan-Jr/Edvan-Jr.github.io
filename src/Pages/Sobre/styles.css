@@ -40,6 +40,20 @@
   font-size: 1.6rem;
 }
 
+@media (max-width: 1035px) {
+  .container-sobre {
+    padding: 0 75px;
+    gap: 60px;
+  }
+}
+
+@media (max-width: 960px) {
+  .container-sobre {
+    padding: 0 50px;
+    gap: 40px;
+  }
+}
+
 @media (max-width: 691px) {
   .container-sobre {
     display: flex;
