@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.229861b1.css",
-    "main.js": "/static/js/main.c9c636c1.js",
-    "static/media/juandesouza_frameworks-de-desenvolvedores.jpg": "/static/media/juandesouza_frameworks-de-desenvolvedores.8f3f08e8f06fe3aefb34.jpg",
+    "main.css": "/static/css/main.63e3d81b.css",
+    "main.js": "/static/js/main.dad47ae9.js",
+    "static/media/fundo-home.svg": "/static/media/fundo-home.4c1a6461722207d4d381.svg",
+    "static/media/fundo-portfolio.svg": "/static/media/fundo-portfolio.8d78ebf3f119f9d3e0d8.svg",
     "static/media/perfil-eddev.jpg": "/static/media/perfil-eddev.c8565db3afbf7dc90964.jpg",
+    "static/media/logo-eddev.svg": "/static/media/logo-eddev.aeaf42036e7f209b77ab71be24206973.svg",
     "index.html": "/index.html",
-    "static/media/logo-eddev.svg": "/static/media/logo-eddev.3abd26b1fb991eea20d4d5ee5fa8422c.svg",
     "static/media/github-dark.svg": "/static/media/github-dark.3880ceac2a12439cf8b79a89aeeed480.svg",
     "static/media/linkedin-dark.svg": "/static/media/linkedin-dark.74f016513d1804e5edc75b0be0c71bfd.svg",
-    "main.229861b1.css.map": "/static/css/main.229861b1.css.map",
-    "main.c9c636c1.js.map": "/static/js/main.c9c636c1.js.map"
+    "main.63e3d81b.css.map": "/static/css/main.63e3d81b.css.map",
+    "main.dad47ae9.js.map": "/static/js/main.dad47ae9.js.map"
   },
   "entrypoints": [
-    "static/css/main.229861b1.css",
-    "static/js/main.c9c636c1.js"
+    "static/css/main.63e3d81b.css",
+    "static/js/main.dad47ae9.js"
   ]
 }
