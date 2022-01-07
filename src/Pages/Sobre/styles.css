@@ -12,8 +12,12 @@
 .left-sobre {
   flex-basis: 50%;
 
-  background-image: url("../../Assets/perfil-eddev.jpg");
-  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+}
+
+.fundo-sobre {
+  width: 100%;
 }
 
 .rigth-sobre {
@@ -32,4 +36,26 @@
   text-align: justify;
   text-indent: 25px;
   line-height: 25px;
+
+  font-size: 1.6rem;
+}
+
+@media (max-width: 691px) {
+  .container-sobre {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+  }
+}
+
+@media (max-width: 497px) {
+  .container-sobre {
+    padding: 0 20px;
+
+    align-items: center;
+  }
+
+  .fundo-sobre {
+    width: 280px;
+  }
 }

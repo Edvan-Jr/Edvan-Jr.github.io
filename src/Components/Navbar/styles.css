@@ -1,6 +1,8 @@
 .nav-header {
   display: flex;
   gap: 50px;
+
+  font-size: 1.6rem;
 }
 
 .nav-header a {
@@ -11,4 +13,18 @@
 
 .nav-header a:focus {
   color: #5FB4A2;
+}
+
+@media (max-width: 430px) {
+  .nav-header {
+    display: flex;
+    gap: 15px;
+  }
+}
+
+@media (max-width: 319px) {
+  .nav-header {
+    display: flex;
+    gap: 10px;
+  }
 }

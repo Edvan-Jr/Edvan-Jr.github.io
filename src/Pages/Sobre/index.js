@@ -1,11 +1,11 @@
 import './styles.css';
-// import fundoSobre from '../../Assets/perfil-eddev.jpg';
+import fundoSobre from '../../Assets/perfil-eddev.jpg';
 
 function Sobre() {
   return (
     <div className="container-sobre">
       <div className="left-sobre">
-        {/* <img src={fundoSobre} alt="" /> */}
+        <img className='fundo-sobre' src={fundoSobre} alt="" />
       </div>
       <div className="rigth-sobre">
         <h1>Sobre mim</h1>
